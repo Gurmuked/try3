@@ -186,6 +186,9 @@ int main() {
                 cout << "Invalid choice. Please try again.\n";
         }
     } while (choice != 8);
-
+cout << "Enter the position: ";
+cout << "Enter the position: ";
+cout << "Enter the position: ";
     return 0;
+
 }
